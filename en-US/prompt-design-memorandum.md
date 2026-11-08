@@ -356,6 +356,8 @@ Simultaneously check:
 - **Modifier compatibility**: the modifier's K direction must be compatible with the modified word ("dynamic anchoring" has two K directions that are mutually exclusive); if the two functionally cancel each other, the phrase is noise no matter how elegant.
 
 ### 7.6 The Effect of In-Field Blank Lines
+> *Scope note: the blank-line experiments described below were conducted with the Chinese-language Meta Rules. The specific trajectory shifts may differ in English embedding space, while the mechanism-level conjectures (register normalization, weakened adjacency coupling) remain the working explanation.*
+
 > Instance: same Meta Rules, same topic, same model; only the layout was changed to platform-style paragraph spacing — `#`/`##` headings stay adjacent to their `> Principle` line, and blank lines are inserted between all other blocks: between a principle and its expansion, between the six stages of Fractal Recursion, between a `###` key and its obligation body, and between two paragraphs of the same obligation. In-sentence semicolon chains and sub-items (2.1/2.2, Disposition/Discipline) were left untouched.
 **Test results**:
 - Trajectory verbs shifted from "construct the strongest rebuttal — test residual boundaries over multiple rounds — build a unifying principle — cross-check citations" to "inventory — map — reconcile — plan citations".
