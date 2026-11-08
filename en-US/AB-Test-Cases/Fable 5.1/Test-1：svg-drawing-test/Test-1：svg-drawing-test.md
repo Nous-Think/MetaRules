@@ -12,10 +12,10 @@ Create an HTML page whose content is a 2D SVG animation of a pelican riding a bi
 
 | Condition | Thinking level | Run time | Open | Source |
 |---|---|---|---|---|
-| Baseline | High | — | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28High%29%20Baseline.html) | [Source](./Fable%205.1%20%28High%29%20Baseline.html) |
-| Meta Rules | High | — | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28High%29%20Meta%20Rules.html) | [Source](./Fable%205.1%20%28High%29%20Meta%20Rules.html) |
-| Baseline | Extra | — | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28Extra%29%20Baseline.html) | [Source](./Fable%205.1%20%28Extra%29%20Baseline.html) |
-| Meta Rules | Extra | — | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28Extra%29%20Meta%20Rules.html) | [Source](./Fable%205.1%20%28Extra%29%20Meta%20Rules.html) |
+| Baseline | High | — | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28High%29%20Baseline.html) | [Source](./Fable%205.1%20%28High%29%20Baseline.html) |
+| Meta Rules | High | — | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28High%29%20Meta%20Rules.html) | [Source](./Fable%205.1%20%28High%29%20Meta%20Rules.html) |
+| Baseline | Extra | — | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28Extra%29%20Baseline.html) | [Source](./Fable%205.1%20%28Extra%29%20Baseline.html) |
+| Meta Rules | Extra | — | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28Extra%29%20Meta%20Rules.html) | [Source](./Fable%205.1%20%28Extra%29%20Meta%20Rules.html) |
 
 Run time: when a response uses several tools, Claude's interface shows the number of tool calls instead of the elapsed time, so no run time is available for this set.
 
@@ -31,10 +31,10 @@ Other models also generated a pelican-on-a-bicycle animation from the same promp
 
 | Model | Condition | Thinking level | Run time | Open |
 |---|---|---|---|---|
-| GPT 6 | Baseline | High | 4 min 18 s | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/GPT%206/Test-1：svg-drawing-test/GPT%206%20%28High%29%20Baseline.html) |
-| GPT 6 | Meta Rules | High | 5 min 52 s | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/GPT%206/Test-1：svg-drawing-test/GPT%206%20%28High%29%20Meta%20Rules.html) |
-| DeepSeek V4.1 Flash | Baseline | High | 8 min 33 s | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/DeepSeek%20V4.1%20Flash/Test-2：svg-drawing-test/DeepSeek%20V4.1%20Flash%20%28High%29%20Baseline.html) |
-| DeepSeek V4.1 Flash | Meta Rules | High | 14 min 25 s | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/DeepSeek%20V4.1%20Flash/Test-2：svg-drawing-test/DeepSeek%20V4.1%20Flash%20%28High%29%20Meta%20Rules.html) |
+| GPT 6 | Baseline | High | 4 min 18 s | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/GPT%206/Test-1：svg-drawing-test/GPT%206%20%28High%29%20Baseline.html) |
+| GPT 6 | Meta Rules | High | 5 min 52 s | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/GPT%206/Test-1：svg-drawing-test/GPT%206%20%28High%29%20Meta%20Rules.html) |
+| DeepSeek V4.1 Flash | Baseline | High | 8 min 33 s | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/DeepSeek%20V4.1%20Flash/Test-2：svg-drawing-test/DeepSeek%20V4.1%20Flash%20%28High%29%20Baseline.html) |
+| DeepSeek V4.1 Flash | Meta Rules | High | 14 min 25 s | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/DeepSeek%20V4.1%20Flash/Test-2：svg-drawing-test/DeepSeek%20V4.1%20Flash%20%28High%29%20Meta%20Rules.html) |
 
 - GPT 6: en-US edition Ver 2.0.0, tested 2026-09-07.
 - DeepSeek V4.1 Flash: zh-TW edition Ver 2.0.1, tested 2026-09-10.

@@ -10,10 +10,10 @@
 
 | 條件 | 思考等級 | 執行時間 | 開啟 | 原始碼 |
 |---|---|---|---|---|
-| 裸跑 | High | — | [開啟](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/zh-TW/AB測試實例/Fable%205.1/測試1：SVG繪圖測試-鵜鶘騎自行車動畫/Fable%205.1（High）裸跑.html) | [原始碼](./Fable%205.1（High）裸跑.html) |
-| 元規則 | High | — | [開啟](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/zh-TW/AB測試實例/Fable%205.1/測試1：SVG繪圖測試-鵜鶘騎自行車動畫/Fable%205.1（High）元規則.html) | [原始碼](./Fable%205.1（High）元規則.html) |
-| 裸跑 | Extra | — | [開啟](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/zh-TW/AB測試實例/Fable%205.1/測試1：SVG繪圖測試-鵜鶘騎自行車動畫/Fable%205.1（Extra）裸跑.html) | [原始碼](./Fable%205.1（Extra）裸跑.html) |
-| 元規則 | Extra | — | [開啟](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/zh-TW/AB測試實例/Fable%205.1/測試1：SVG繪圖測試-鵜鶘騎自行車動畫/Fable%205.1（Extra）元規則.html) | [原始碼](./Fable%205.1（Extra）元規則.html) |
+| 裸跑 | High | — | [開啟](https://nous-think.github.io/MetaRules/zh-TW/AB測試實例/Fable%205.1/測試1：SVG繪圖測試-鵜鶘騎自行車動畫/Fable%205.1（High）裸跑.html) | [原始碼](./Fable%205.1（High）裸跑.html) |
+| 元規則 | High | — | [開啟](https://nous-think.github.io/MetaRules/zh-TW/AB測試實例/Fable%205.1/測試1：SVG繪圖測試-鵜鶘騎自行車動畫/Fable%205.1（High）元規則.html) | [原始碼](./Fable%205.1（High）元規則.html) |
+| 裸跑 | Extra | — | [開啟](https://nous-think.github.io/MetaRules/zh-TW/AB測試實例/Fable%205.1/測試1：SVG繪圖測試-鵜鶘騎自行車動畫/Fable%205.1（Extra）裸跑.html) | [原始碼](./Fable%205.1（Extra）裸跑.html) |
+| 元規則 | Extra | — | [開啟](https://nous-think.github.io/MetaRules/zh-TW/AB測試實例/Fable%205.1/測試1：SVG繪圖測試-鵜鶘騎自行車動畫/Fable%205.1（Extra）元規則.html) | [原始碼](./Fable%205.1（Extra）元規則.html) |
 
 執行時間：Claude 介面在回應過程調用多個工具時只顯示工具次數、不顯示耗時，故本組沒有執行時間資料。
 
@@ -29,10 +29,10 @@
 
 | 模型 | 條件 | 思考等級 | 執行時間 | 開啟 |
 |---|---|---|---|---|
-| GPT 6 | 裸跑 | High | 4 分 18 秒 | [開啟](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/zh-TW/AB測試實例/GPT%206/測試1：SVG繪圖測試-鵜鶘騎自行車動畫/GPT%206（High）裸跑.html) |
-| GPT 6 | 元規則 | High | 5 分 52 秒 | [開啟](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/zh-TW/AB測試實例/GPT%206/測試1：SVG繪圖測試-鵜鶘騎自行車動畫/GPT%206（High）元規則.html) |
-| DeepSeek V4.1 Flash | 裸跑 | High | 8 分 33 秒 | [開啟](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/zh-TW/AB測試實例/DeepSeek%20V4.1%20Flash/測試2：SVG繪圖測試-鵜鶘騎自行車動畫/DeepSeek%20V4.1%20Flash（High）裸跑.html) |
-| DeepSeek V4.1 Flash | 元規則 | High | 14 分 25 秒 | [開啟](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/zh-TW/AB測試實例/DeepSeek%20V4.1%20Flash/測試2：SVG繪圖測試-鵜鶘騎自行車動畫/DeepSeek%20V4.1%20Flash（High）元規則.html) |
+| GPT 6 | 裸跑 | High | 4 分 18 秒 | [開啟](https://nous-think.github.io/MetaRules/zh-TW/AB測試實例/GPT%206/測試1：SVG繪圖測試-鵜鶘騎自行車動畫/GPT%206（High）裸跑.html) |
+| GPT 6 | 元規則 | High | 5 分 52 秒 | [開啟](https://nous-think.github.io/MetaRules/zh-TW/AB測試實例/GPT%206/測試1：SVG繪圖測試-鵜鶘騎自行車動畫/GPT%206（High）元規則.html) |
+| DeepSeek V4.1 Flash | 裸跑 | High | 8 分 33 秒 | [開啟](https://nous-think.github.io/MetaRules/zh-TW/AB測試實例/DeepSeek%20V4.1%20Flash/測試2：SVG繪圖測試-鵜鶘騎自行車動畫/DeepSeek%20V4.1%20Flash（High）裸跑.html) |
+| DeepSeek V4.1 Flash | 元規則 | High | 14 分 25 秒 | [開啟](https://nous-think.github.io/MetaRules/zh-TW/AB測試實例/DeepSeek%20V4.1%20Flash/測試2：SVG繪圖測試-鵜鶘騎自行車動畫/DeepSeek%20V4.1%20Flash（High）元規則.html) |
 
 - GPT 6：元規則英文版 Ver 2.0.0，測試日期 2026-09-07。
 - DeepSeek V4.1 Flash：元規則中文版 Ver 2.0.1，測試日期 2026-09-10。

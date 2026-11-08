@@ -12,8 +12,8 @@ Create an HTML page whose content is a 2D SVG animation of a pelican riding a bi
 
 | Condition | Thinking level | Run time | Open | Source |
 |---|---|---|---|---|
-| Baseline | High | 8 min 33 s | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/DeepSeek%20V4.1%20Flash/Test-2：svg-drawing-test/DeepSeek%20V4.1%20Flash%20%28High%29%20Baseline.html) | [Source](./DeepSeek%20V4.1%20Flash%20%28High%29%20Baseline.html) |
-| Meta Rules | High | 14 min 25 s | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/DeepSeek%20V4.1%20Flash/Test-2：svg-drawing-test/DeepSeek%20V4.1%20Flash%20%28High%29%20Meta%20Rules.html) | [Source](./DeepSeek%20V4.1%20Flash%20%28High%29%20Meta%20Rules.html) |
+| Baseline | High | 8 min 33 s | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/DeepSeek%20V4.1%20Flash/Test-2：svg-drawing-test/DeepSeek%20V4.1%20Flash%20%28High%29%20Baseline.html) | [Source](./DeepSeek%20V4.1%20Flash%20%28High%29%20Baseline.html) |
+| Meta Rules | High | 14 min 25 s | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/DeepSeek%20V4.1%20Flash/Test-2：svg-drawing-test/DeepSeek%20V4.1%20Flash%20%28High%29%20Meta%20Rules.html) | [Source](./DeepSeek%20V4.1%20Flash%20%28High%29%20Meta%20Rules.html) |
 
 Run times are the thinking times shown by the DeepSeek interface.
 
@@ -29,12 +29,12 @@ Other models also generated a pelican-on-a-bicycle animation from the same promp
 
 | Model | Condition | Thinking level | Run time | Open |
 |---|---|---|---|---|
-| Fable 5.1 | Baseline | High | — | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28High%29%20Baseline.html) |
-| Fable 5.1 | Meta Rules | High | — | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28High%29%20Meta%20Rules.html) |
-| Fable 5.1 | Baseline | Extra | — | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28Extra%29%20Baseline.html) |
-| Fable 5.1 | Meta Rules | Extra | — | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28Extra%29%20Meta%20Rules.html) |
-| GPT 6 | Baseline | High | 4 min 18 s | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/GPT%206/Test-1：svg-drawing-test/GPT%206%20%28High%29%20Baseline.html) |
-| GPT 6 | Meta Rules | High | 5 min 52 s | [Open](https://nous-think.github.io/LLM-Cognitive-Architecture-By-Prompt/en-US/AB-Test-Cases/GPT%206/Test-1：svg-drawing-test/GPT%206%20%28High%29%20Meta%20Rules.html) |
+| Fable 5.1 | Baseline | High | — | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28High%29%20Baseline.html) |
+| Fable 5.1 | Meta Rules | High | — | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28High%29%20Meta%20Rules.html) |
+| Fable 5.1 | Baseline | Extra | — | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28Extra%29%20Baseline.html) |
+| Fable 5.1 | Meta Rules | Extra | — | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/Fable%205.1/Test-1：svg-drawing-test/Fable%205.1%20%28Extra%29%20Meta%20Rules.html) |
+| GPT 6 | Baseline | High | 4 min 18 s | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/GPT%206/Test-1：svg-drawing-test/GPT%206%20%28High%29%20Baseline.html) |
+| GPT 6 | Meta Rules | High | 5 min 52 s | [Open](https://nous-think.github.io/MetaRules/en-US/AB-Test-Cases/GPT%206/Test-1：svg-drawing-test/GPT%206%20%28High%29%20Meta%20Rules.html) |
 
 - Fable 5.1: zh-TW edition Ver 2.0.0, tested 2026-09-07.
 - GPT 6: en-US edition Ver 2.0.0, tested 2026-09-07.
